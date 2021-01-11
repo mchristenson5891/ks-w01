@@ -1,3 +1,5 @@
+## this is a new line
+
 # Command Line and git
 
 ## Lesson Objectives
